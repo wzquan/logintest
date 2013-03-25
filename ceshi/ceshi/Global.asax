@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="ceshi.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="ceshi.MvcApplication" Language="C#" %>

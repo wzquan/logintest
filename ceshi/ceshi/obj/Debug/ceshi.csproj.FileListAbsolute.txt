@@ -1,5 +1,0 @@
-D:\web编程\ceshi\ceshi\bin\ceshi.dll
-D:\web编程\ceshi\ceshi\bin\ceshi.pdb
-D:\web编程\ceshi\ceshi\obj\Debug\ResolveAssemblyReference.cache
-D:\web编程\ceshi\ceshi\obj\Debug\ceshi.dll
-D:\web编程\ceshi\ceshi\obj\Debug\ceshi.pdb
